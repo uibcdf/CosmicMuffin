@@ -1,0 +1,7 @@
+CosmicMuffin
+============
+
+.. toctree::
+   :maxdepth: 4
+
+   cosmicmuffin

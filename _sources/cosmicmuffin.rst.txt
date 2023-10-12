@@ -1,0 +1,29 @@
+cosmicmuffin package
+====================
+
+Submodules
+----------
+
+cosmicmuffin.saludo module
+--------------------------
+
+.. automodule:: cosmicmuffin.saludo
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+cosmicmuffin.suma module
+------------------------
+
+.. automodule:: cosmicmuffin.suma
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: cosmicmuffin
+   :members:
+   :undoc-members:
+   :show-inheritance:
